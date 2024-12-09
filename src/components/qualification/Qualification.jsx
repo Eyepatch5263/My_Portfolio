@@ -32,7 +32,7 @@ const Qualification = () => {
                                 </span>
                                 <div className="qualification__calender">
                                     <i class="uil uil-calendar-alt"></i>
-                                    2023 - present
+                                    2022 - present
                                 </div>
                             </div>
                             <div>
@@ -48,7 +48,7 @@ const Qualification = () => {
                                 <span className="qualification__line"></span>
                             </div>
                             <div>
-                                <h3 className="qualification__title">Ui/Ux Developer</h3>
+                                <h3 className="qualification__title">Ui/Ux Designer</h3>
                                 <span className="qualification__subtitle">
                                     National Institute of Technology, Hamirpur
                                 </span>
@@ -62,7 +62,7 @@ const Qualification = () => {
 
                         <div className="qualification__data">
                             <div>
-                                <h3 className="qualification__title">App Development</h3>
+                                <h3 className="qualification__title">Web Development</h3>
                                 <span className="qualification__subtitle">
                                     National Institute of Technology, Hamirpur
                                 </span>
@@ -84,13 +84,13 @@ const Qualification = () => {
                                 <span className="qualification__line"></span>
                             </div>
                             <div>
-                                <h3 className="qualification__title">Ux Expert</h3>
+                                <h3 className="qualification__title">App Development</h3>
                                 <span className="qualification__subtitle">
                                     National Institute of Technology, Hamirpur
                                 </span>
                                 <div className="qualification__calender">
                                     <i class="uil uil-calendar-alt"></i>
-                                    2022 - 2023
+                                    2023 - present
                                 </div>
                             </div>
 
@@ -100,13 +100,13 @@ const Qualification = () => {
                     <div className={toggleState===2?"qualification__content qualification__content-active":"qualification__content"}>
                         <div className="qualification__data">
                             <div>
-                                <h3 className="qualification__title">Product Designer</h3>
+                                <h3 className="qualification__title">Ui/Ux Designer</h3>
                                 <span className="qualification__subtitle">
-                                    National Institute of Technology, Hamirpur
+                                    E-cell NIT Hamirpur
                                 </span>
                                 <div className="qualification__calender">
                                     <i class="uil uil-calendar-alt"></i>
-                                    2023 - present
+                                    2023 - 2024
                                 </div>
                             </div>
                             <div>
@@ -122,9 +122,9 @@ const Qualification = () => {
                                 <span className="qualification__line"></span>
                             </div>
                             <div>
-                                <h3 className="qualification__title">Ux Designer</h3>
+                                <h3 className="qualification__title">Web Developer</h3>
                                 <span className="qualification__subtitle">
-                                    National Institute of Technology, Hamirpur
+                                    CSEC - NIT Hamirpur
                                 </span>
                                 <div className="qualification__calender">
                                     <i class="uil uil-calendar-alt"></i>
@@ -138,11 +138,11 @@ const Qualification = () => {
                             <div>
                                 <h3 className="qualification__title">App Designer</h3>
                                 <span className="qualification__subtitle">
-                                    National Institute of Technology, Hamirpur
+                                    App Team - NIT Hamirpur
                                 </span>
                                 <div className="qualification__calender">
                                     <i class="uil uil-calendar-alt"></i>
-                                    2022 - present
+                                    2023 - present
                                 </div>
                             </div>
                             <div>

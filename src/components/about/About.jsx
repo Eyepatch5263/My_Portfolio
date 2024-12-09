@@ -1,6 +1,5 @@
 import React from 'react'
 import './about.css'
-import AboutImg from '../../assets/about.jpg'
 import CV from '../../assets/pratyush-cv.pdf'
 import Info from './Info'
 
@@ -11,13 +10,16 @@ const About = () => {
                 <h2 className="section__title">About Me</h2>
                 <span className="section__subtitle">My Introduction</span>
                 <div className="about__container container grid">
-                    <img src={AboutImg} alt="" className="about__img" />
+                    {/* <img src={AboutImg} alt="" className="about__img" /> */}
                     <div className="about__data">
                         <Info />
                         <p className="about__description">
-                            Innovative front-end developer and UI/UX designer, turning code into captivating, user-friendly experiences. Expert in blending aesthetics and functionality to create visually stunning, seamless interfaces.
+                            Innovative frontend & backend developer and UI/UX designer, turning code into captivating, user-friendly experiences. Expert in blending aesthetics and functionality to create visually stunning, seamless interfaces.
                         </p>
-                        <a download="" href={CV} className="button button--flex">Download CV
+
+                    </div>
+                    <div style={{display:"flex", justifyContent:"center"}}>
+                        <a style={{ width: "200px", display: "flex", justifyContent: "center" }} download="" href={CV} className="button button--flex">Download CV
                             <svg
                                 class="button__icon"
                                 xmlns="http://www.w3.org/2000/svg"
@@ -46,6 +48,7 @@ const About = () => {
                         </a>
                     </div>
                 </div>
+
             </section>
         </div>
     )

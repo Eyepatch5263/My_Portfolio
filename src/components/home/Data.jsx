@@ -11,10 +11,10 @@ const Data = () => {
 
             </h1>
             <h3 className="home__subtitle">
-                Graphics Designer
+                MERN Stack Dev
             </h3>
             <p className="home__description">
-                I'm a creative designer based in India and I'm Very passionate and dedicated to my work.
+                I'm a creative designer and MERN stack developer based in India and I'm Very passionate and dedicated to my work.
             </p>
             <a href="https://www.instagram.com/eyepatch_5263/" className="button button--flex">
                 Say Hello

@@ -16,10 +16,9 @@ const Works = () => {
             const newProjects=projectsData.filter((project)=>{
                 return project.category===item.name
             })
-            console.log(projects)
             setProjects(newProjects)
         }
-    },[item,projectsData])
+    },[item])
     const handleClick=(e,index)=>{
         setItem({name:e.target.textContent})
     }

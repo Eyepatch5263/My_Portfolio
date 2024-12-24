@@ -1,27 +1,26 @@
-import Image1 from '../../assets/testimonial1.png'
-import Image2 from '../../assets/testimonial2.png'
-import Image3 from '../../assets/testimonial3.png'
+import Image1 from '../../assets/csec.png'
+import Image2 from '../../assets/ecell.png'
+import Image3 from '../../assets/app_team.png'
 
 export const Data = [
     {
         id: 1,
         image: Image1,
-        title: "Jhon Doe",
-        description:
-            "A really good job, all aspects of the project were followed step by step and with good results.",
+        title: "CSEC",
+        description:"Creative Design and Dev skills, significantly improving our Web user experience.",
     },
     {
         id: 2,
         image: Image2,
-        title: "Harry Clinton",
+        title: "E-cell NITH",
         description:
-            "A really good job, all aspects of the project were followed step by step and with good results.",
+            "Exceptional Ui/Ux designing skills that greatly enhanced our society's online presence. Highly recommended for any project requiring top-notch design expertise."
     },
     {
         id: 3,
         image: Image3,
-        title: "Sara Cill",
+        title: "App Team NITH",
         description:
-            "A really good job, all aspects of the project were followed step by step and with good results.",
+            "Professional and thorough, delivering outstanding results for app's user experience.",
     },
 ];

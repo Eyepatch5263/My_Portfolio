@@ -16,7 +16,7 @@ const Data = () => {
             <p className="home__description">
                 I'm a creative designer and MERN stack developer based in India and I'm Very passionate and dedicated to my work.
             </p>
-            <a href="https://www.instagram.com/eyepatch_5263/" className="button button--flex">
+            <a href="https://www.eyepatch5263.me" className="button button--flex" target='_blank'>
                 Say Hello
                 <svg
                     class="button__icon"

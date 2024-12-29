@@ -8,6 +8,8 @@ import onlyanime from '../../assets/onlyanime.jpg'
 import blogyfie from '../../assets/blogyfie.jpg'
 import whoops_screen from '../../assets/whoops_screen.jpg'
 import Expense_splash from '../../assets/Expense_splash.jpg'
+import codilio from '../../assets/codilio.jpg'
+import spotify from '../../assets/spotify.jpg'
 export const projectsData = [
     {
         id: 1,
@@ -39,7 +41,7 @@ export const projectsData = [
     {
         id: 5,
         image: onlyanime,
-        title: "SaaS Platform",
+        title: "Anime Platform",
         category: "web",
         link:"https://only-anime.vercel.app/"
     },
@@ -77,6 +79,21 @@ export const projectsData = [
         title: "Expense Tracker",
         category: "app",
         link:"https://res.cloudinary.com/dvnrlqqpq/video/upload/v1726938492/Expense_tracker_u33ras.mp4"
+    },
+    {
+        id:11,
+        image:codilio,
+        title: "Coding platform",
+        category: "web",
+        link:"https://codilio.vercel.app/"
+    },
+    {
+        id:12,
+        image:spotify,
+        title: "Spotify-Chats",
+        category: "web",
+        link:"https://spotify-hdjm.onrender.com/"
+        
     }
 ];
 

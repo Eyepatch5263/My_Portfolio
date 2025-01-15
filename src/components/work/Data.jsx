@@ -16,7 +16,7 @@ export const projectsData = [
         image: onlychatie,
         title: "Chat App",
         category: "web",
-        link:"https://chat-app-redis-two.vercel.app/auth"
+        link:"https://eyepatch5263.me"
     },
     {
         id: 2,

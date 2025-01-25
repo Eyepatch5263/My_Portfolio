@@ -1,7 +1,5 @@
 services:
   web:
-    build: 
-      context: .
-      dockerfile: Dockerfile
+    image: eyepatch5263/portfolio:latest
     ports:
       - "8081:8081"

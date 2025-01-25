@@ -19,7 +19,7 @@ COPY --from=build /app/build /usr/share/nginx/html
 # Create the default.conf file within the Dockerfile
 RUN echo 'server { \
     listen 8081; \
-    server_name server.eyepatch-cloud-dev.tech; \
+    server_name localhost; \
     location / { \
         root /usr/share/nginx/html; \
         index index.html index.htm; \

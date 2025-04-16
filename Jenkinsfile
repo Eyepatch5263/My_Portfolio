@@ -5,7 +5,7 @@ pipeline {
         label "jenkins-slave"
     }
     stages {
-        stage("Welcome") {
+        stage("Start") {
             steps {
                 script {
                     hello()

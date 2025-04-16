@@ -16,14 +16,16 @@ export const projectsData = [
         image: onlychatie,
         title: "Chat App",
         category: "web",
-        link:"https://eyepatch5263.me"
+        link:"https://eyepatch5263.me",
+        github:"https://github.com/Eyepatch5263/chat_app_redis"
     },
     {
         id: 2,
         image: feedback,
         title: "Anonymous Confession",
         category: "web",
-        link:"https://feedback-lac.vercel.app/"
+        link:"https://feedback-lac.vercel.app/",
+        github:"https://github.com/Eyepatch5263/feedback"
     },
     {
         id: 3,
@@ -43,7 +45,8 @@ export const projectsData = [
         image: onlyanime,
         title: "Anime Platform",
         category: "web",
-        link:"https://only-anime.vercel.app/"
+        link:"https://only-anime.vercel.app/",
+        github:"https://github.com/Eyepatch5263/OnlyAnime"
     },
     {
         id: 6,
@@ -71,7 +74,8 @@ export const projectsData = [
         image: blogyfie,
         title: "Blog Platform",
         category: "web",
-        link:"https://blogyfie.netlify.app/"
+        link:"https://blogyfie.netlify.app/",
+        github:"https://github.com/Eyepatch5263/Blogging"
     },
     {
         id: 10,
@@ -85,14 +89,16 @@ export const projectsData = [
         image:codilio,
         title: "Coding platform",
         category: "web",
-        link:"https://codilio.vercel.app/"
+        link:"https://codilio.vercel.app/",
+        github:"https://github.com/Eyepatch5263/codilio"
     },
     {
         id:12,
         image:spotify,
         title: "Spotify-Chats",
         category: "web",
-        link:"https://spotify-hdjm.onrender.com/"
+        link:"https://spotify-hdjm.onrender.com/",
+        github:"https://github.com/Eyepatch5263/spotify"
         
     }
 ];

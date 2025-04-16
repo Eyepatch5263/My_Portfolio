@@ -11,10 +11,10 @@ const Data = () => {
 
             </h1>
             <h3 className="home__subtitle">
-                MERN Stack Dev
+                Web Developer
             </h3>
             <p className="home__description">
-                I'm a creative designer and MERN stack developer based in India and I'm Very passionate and dedicated to my work.
+                I'm a creative designer and Full stack developer based in India. Currently working as an frontend intern in <span style={{fontWeight:"bold"}}>Ctrlb.</span>
             </p>
             <a href="https://www.eyepatch5263.me" className="button button--flex" target='_blank'>
                 Say Hello

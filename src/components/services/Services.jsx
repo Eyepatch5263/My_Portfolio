@@ -58,12 +58,6 @@ const Services = () => {
                                         Designed Logos and custom vectors.
                                     </p>
                                 </li>
-                                <li className="services__modal-service">
-                                    <i class="uil uil-check-circle services__modal-icon"></i>
-                                    <p className="services__modal-info">
-                                        Web Development.
-                                    </p>
-                                </li>
                             </ul>
                         </div>
                     </div>
@@ -114,12 +108,6 @@ const Services = () => {
                                         Backend Developer.
                                     </p>
                                 </li>
-                                <li className="services__modal-service">
-                                    <i class="uil uil-check-circle services__modal-icon"></i>
-                                    <p className="services__modal-info">
-                                        3d Animations. 
-                                    </p>
-                                </li>
                             </ul>
                         </div>
                     </div>
@@ -168,12 +156,6 @@ const Services = () => {
                                     <i class="uil uil-check-circle services__modal-icon"></i>
                                     <p className="services__modal-info">
                                         Design Logos
-                                    </p>
-                                </li>
-                                <li className="services__modal-service">
-                                    <i class="uil uil-check-circle services__modal-icon"></i>
-                                    <p className="services__modal-info">
-                                        Web Development
                                     </p>
                                 </li>
                             </ul>
